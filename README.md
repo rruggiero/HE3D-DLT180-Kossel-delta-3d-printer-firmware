@@ -20,11 +20,12 @@ The primary values tht you need to cocnern yourselves with are as follows:
 
 Another value tht you may be affected by is the "DELTA_RADIUS".  The Delta radius can be used to compensate for variations in your hot bed straightness.  The rule is as follows:
 
-* If the nozzle touches the centre point but not the outside points = The hot bed is __CONVEX__ - Adjust down the DELTA_RADIUS e.g.: from 2.0 to 1.0
+* If the nozzle touches the centre point but not the outside points, then the hot bed is __CONVEX: Adjust down the DELTA_RADIUS__ _e.g.: from 2.0 to 1.0_
 
-* If the nozzle touches outside points but not the centre point = __CONCAVE__ - Adjust up the DELTA_RADIUS e.g.: from 2.0 to 3.0
+* If the nozzle touches outside points but not the centre point, then the hot bed is __CONCAVE: Adjust up the DELTA_RADIUS__ _e.g.: from 2.0 to 3.0_
 
 Best of luck,
 
 __Rick Ruggiero__
+
 email: rick.ruggiero@gmail.com
